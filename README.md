@@ -1,10 +1,19 @@
-# Sms2Net GeteWay Package
+# Blueprint Laravel Development Package
+| This Is A Very Simple Blueprint For
+starting Your Now Awesome Package. 
 
-## Installtions
-`/*
-          * Package Service Providers...
-          */
-         Zymawy\Sms2Net\Sms2NetServiceProvider::class,`
-         
-`'Sms2Net' => \Zymawy\Sms2Net\Facades\Sms2NetFacade::class,`
+# installation
+- You Need Only To Change The Names
+OF `Services` And `Classes` 
+And
+Update The `composer.json`.
+
+# Features
+- Configured Facade.
+- Configured PhpUnit. 
+
+
+# ToDo 
+- Auto Package Discovery
+- .. 
 
