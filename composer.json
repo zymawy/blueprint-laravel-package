@@ -1,0 +1,33 @@
+{
+  "name": "zymawy/sms2net",
+  "description": ".",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "sms",
+    "sms2net",
+    "Deewan Alrasaile"
+  ],
+  "authors": [
+    {
+      "name": "hamza zymawy",
+      "email": "zymawy@gmail.com",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "laravel/framework": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zymawy\\Sms2Net\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "minimum-stability": "stable"
+}
