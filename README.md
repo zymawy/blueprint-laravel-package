@@ -1,19 +1,22 @@
 # Blueprint Laravel Development Package
 | This Is A Very Simple Blueprint For
-starting Your Now Awesome Package. 
+starting Your Now Awesome Package.
 
 # installation
 - You Need Only To Change The Names
-OF `Services` And `Classes` 
+```
+ λ composer require zymawy/blueprint-development
+```
+OF `Services` And `Classes`
 And
 Update The `composer.json`.
 
 # Features
 - Configured Facade.
-- Configured PhpUnit. 
+- Configured PhpUnit.
 
 
-# ToDo 
+# ToDo
 - Auto Package Discovery
-- .. 
+- ..
 
