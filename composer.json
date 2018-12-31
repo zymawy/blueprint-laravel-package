@@ -1,12 +1,12 @@
 {
-  "name": "zymawy/sms2net",
-  "description": ".",
+  "name": "zymawy/blueprint-development",
+  "description": ":octocat: :package: A BluePrint For Development Laravel Package And Good To Go.",
   "license": "MIT",
   "keywords": [
     "laravel",
-    "sms",
-    "sms2net",
-    "Deewan Alrasaile"
+    "package",
+    "laravel",
+    "development"
   ],
   "authors": [
     {
@@ -21,12 +21,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Zymawy\\Sms2Net\\": "src/"
+      "": "src/"
     }
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0.x-dev"
+      "dev-master": "dev"
     }
   },
   "minimum-stability": "stable"
