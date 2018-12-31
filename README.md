@@ -3,10 +3,11 @@
 starting Your Now Awesome Package.
 
 # installation
-- You Need Only To Change The Names
 ```
  λ composer require zymawy/blueprint-development
 ```
+
+- You Need To Change The Names
 OF `Services` And `Classes`
 And
 Update The `composer.json`.
